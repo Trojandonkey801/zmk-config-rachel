@@ -19,7 +19,7 @@
                                                     &sk LGUI      &u_lt 4 SPACE  &u_lt 5 TAB                 &u_lt 3 RET               &u_lt 2 BSPC  &to 2
             >;
 
-            sensor-bindings = <&inc_dec_kp RIGHT LEFT>;
+            sensor-bindings = <&inc_dec_kp RIGHT L>;
         };
 
         COLEMAK {
